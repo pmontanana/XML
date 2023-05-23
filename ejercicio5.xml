@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos_arboles>
+    <arbol id = "1" descripcion = "Acer monspessulanum">
+        <nombre>Arce de Montpellier</nombre>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 6 a 10 metros</altura>
+        <forma>Copa esférica</forma>
+        <estructura>Tronco principal recto con bifurcaciones y ramaje colgante</estructura>
+        <color_primavera>Haz verde brillante</color_primavera>
+        <resistencia_heladas>Heladas fuertes (hasta -15ºC)</resistencia_heladas>
+    </arbol>
+    <arbol id = "2" descripcion = "Olea europea">
+        <nombre>Olivo</nombre>
+        <vegetacion>Perenne</vegetacion>
+        <altura>De 8 a 15 metros</altura>
+        <forma>Copa irregular</forma>
+        <estructura>Tronco principal irregular con bifurcaciones y ramaje tortuoso</estructura>
+        <color_primavera>Haz verde oscuro</color_primavera>
+        <resistencia_heladas>Heladas medias (hasta -10ºC)</resistencia_heladas>
+    </arbol>
+    <arbol id = "3" descripcion = "Platanus orientalis">
+        <nombre>Platano</nombre>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 20 a 25 metros</altura>
+        <forma>Copa ovoidal</forma>
+        <estructura>Tronco principal recto y ramaje expandido</estructura>
+        <color_primavera>Haz verde medio</color_primavera>
+        <color_otonyo>Ocre</color_otonyo>
+        <resistencia_heladas>Heladas fuertes (hasta -20ºC)</resistencia_heladas>
+    </arbol>
+    <arbol id = "4" descripcion = "Quercus ilex">
+        <nombre>Encina</nombre>
+        <vegetacion>Perenne</vegetacion>
+        <altura>En torno a 25 metros</altura>
+        <forma>Copa esférica o elíptica irregular</forma>
+        <estructura>Tronco principal recto y ramaje tortuoso</estructura>
+        <color_primavera>Plateado en hojas jóvenes y en hojas antiguas, haz verde oscuro</color_primavera>
+        <resistencia_heladas>Heladas fuertes (hasta -15ºC)</resistencia_heladas>
+    </arbol>
+</datos_arboles>

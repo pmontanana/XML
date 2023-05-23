@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    <cliente id = "1">
+        <nombre>Juan</nombre>
+        <apellidos>Delgado Martinez</apellidos>
+        <pedido>
+            <producto>Bicicleta</producto>
+            <modelo>A2023</modelo>
+            <precio>3000€</precio>
+        </pedido>
+        <direccion>
+            <calle>Calle Barco</calle>
+            <portal>4</portal>
+            <piso>3º</piso>
+            <puerta>A</puerta>
+        </direccion>
+        <entrega>
+            <fecha>
+                <dia>19</dia>
+                <mes>02</mes>
+                <anyo>2019</anyo>
+            </fecha>
+            <empresa>SEUR</empresa>
+        </entrega>
+    </cliente>
+    <cliente id = "2">
+        <nombre>Pepe</nombre>
+        <apellidos>Díaz Martinez</apellidos>
+        <pedido>
+            <producto>iPhone X</producto>
+            <precio>900€</precio>
+        </pedido>
+        <direccion>
+            <calle>Calle Bargas</calle>
+            <portal>4</portal>
+            <piso>1º</piso>
+            <puerta>B</puerta>
+        </direccion>
+        <entrega>
+            <fecha>
+                <dia>10</dia>
+                <mes>05</mes>
+                <anyo>2019</anyo>
+            </fecha>
+            <empresa>FEDEX</empresa>
+        </entrega>
+    </cliente>
+</pedidos>

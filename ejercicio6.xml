@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    <equipo id = "1">
+        <nombre>Albacete</nombre>
+        <ciudad>Albacete</ciudad>
+        <entrenador nombre = "Juan"/>
+        <jugadores>
+            <jugador id = "1" posicion = "portero">
+                <nombre>Paco</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+            <jugador id = "2" posicion = "defensa">
+                <nombre>Pablo</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+            <jugador id = "3" posicion = "defensa">
+                <nombre>Juan</nombre>
+                <nacionalidad>Francia</nacionalidad>
+            </jugador>
+            <jugador id = "4" posicion = "medio">
+                <nombre>Andres</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+            <jugador id = "5" posicion = "delantero">
+                <nombre>Alex</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo id = "2">
+        <nombre></nombre>
+        <ciudad></ciudad>
+        <entrenador></entrenador>
+        <jugadores>
+            <jugador id = "1" posicion = "portero">
+                <nombre></nombre>
+                <nacionalidad></nacionalidad>
+            </jugador>
+            <jugador id = "2" posicion = "defensa">
+                <nombre></nombre>
+                <nacionalidad></nacionalidad>
+            </jugador>
+            <jugador id = "3" posicion = "defensa">
+                <nombre></nombre>
+                <nacionalidad></nacionalidad>
+            </jugador>
+            <jugador id = "4" posicion = "medio">
+                <nombre></nombre>
+                <nacionalidad></nacionalidad>
+            </jugador>
+            <jugador id = "5" posicion = "delantero">
+                <nombre></nombre>
+                <nacionalidad></nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    
+</equipos>

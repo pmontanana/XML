@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro id = "1" categoria = "idiomas">
+        <titulo lang = "italiano">Everyday Italian</titulo>
+        <autor>Giada De Laurentiis</autor>
+        <anyo>2005</anyo>
+        <precio>30€</precio>
+    </libro>
+</biblioteca>
